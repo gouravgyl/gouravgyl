@@ -29,8 +29,8 @@
 
 <h3 align="left">My Github Stats:</h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=gouravgyl&bg_color=0d1117&color=fdfcfd&line=f2d307&point=fafafa&area=true&hide_border=true"></img>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouravgyl&show_icons=true&locale=en" alt="gouravgyl" /></p>
+<!-- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouravgyl&show_icons=true&locale=en" alt="gouravgyl" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravgyl&" alt="gouravgyl" /></p>
 
