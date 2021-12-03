@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gouravgyl](https://github.com/gouravgyl)
+- 👨‍💻 All of my projects are available at [https://portfolio-gouravgoyal.vercel.app/](https://portfolio-gouravgoyal.vercel.app/)
 
 - 💬 Ask me about **Javascript , Data structure , Algorithm , Node Js , Express and MangoDB.**
 
