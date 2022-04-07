@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gourav Goyal</h1>
-<h3 align="center">Learning Full Stack Web developer at Masai School</h3>
+<h3 align="center">Full Stack Web developer</h3>
 
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
